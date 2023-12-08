@@ -6,5 +6,4 @@
 
 # The purpose of this tutorial is to get the audience an understanding of and what it has to offer in related to IT fields. I will be giving a brief overview of protocols and what to look for as well. 
 
-# A few protocols with Cyber Security: https://www.catonetworks.com/network-security/network-security-protocols/ 
 
